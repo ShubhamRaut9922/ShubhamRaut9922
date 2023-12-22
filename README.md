@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham Raut
-- 👀 I’m interested in VLSI design
+- 👀 I’m interested in Digital design engineer.
 - 🌱 I’m currently learning system Verilog, scripting, and Linux for VLSI.
 - 💞️ I’m looking to collaborate in Digital system design  
 - 📫 www.linkedin.com/in/shubham-raut-49a11a193
